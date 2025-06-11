@@ -6,7 +6,3 @@ for i in range(5):
         eng_katta = son
 
 print(f"Eng katta son: {eng_katta}")
-
-
-
-
